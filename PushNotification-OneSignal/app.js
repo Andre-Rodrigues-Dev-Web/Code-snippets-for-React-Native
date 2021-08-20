@@ -16,7 +16,7 @@ export function WelcomeScreen() {
 
 const App = () => {
   OneSignal.setLogLevel(6, 0);
-  OneSignal.setAppId("72378de2-ece2-4c77-84d3-cba16e94af95");
+  OneSignal.setAppId("your OneSignal id here");
   //END OneSignal Init Code
 
   //Prompt for push on iOS
